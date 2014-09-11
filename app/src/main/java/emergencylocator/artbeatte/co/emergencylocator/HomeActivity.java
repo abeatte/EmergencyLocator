@@ -11,7 +11,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.os.Build;
 
-
+// TODO: http://stackoverflow.com/questions/7620150/can-i-automatically-send-sms-without-the-user-need-to-approve
+// TODO: http://stackoverflow.com/questions/6517079/send-email-in-service-without-prompting-user
 
 public class HomeActivity extends Activity {
 
